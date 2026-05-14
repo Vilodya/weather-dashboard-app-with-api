@@ -1,7 +1,7 @@
-<script setup></script>
+<script setup>
+import HomePage from "@/pages/HomePage.vue";
+</script>
 
 <template>
-  <div class="bg-neutral-700">11111</div>
+  <HomePage />
 </template>
-
-<style scoped></style>

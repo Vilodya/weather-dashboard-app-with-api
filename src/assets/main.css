@@ -14,3 +14,7 @@
   --color-blue-500: #4658d9;
   --color-blue-700: #2b1b9c;
 }
+
+body {
+  min-height: 100vh;
+}
