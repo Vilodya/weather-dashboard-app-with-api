@@ -21,11 +21,11 @@ function toggleUnitsDropdown() {
       class="px-2.5 py-2 gap-1.5 bg-neutral-800 hover:bg-neutral-700 rounded-md md:px-4 md:py-3 md:gap-2.5"
       @click="toggleUnitsDropdown()"
     >
-      <img :src="IconSettings" alt="Settings" class="w-3.5 md:w-4" />
+      <img :src="IconSettings" alt="" class="w-3.5 md:w-4" />
       <span class="text-preset-8 md:text-preset-7 text-neutral-0">Units</span>
       <img
         :src="IconChevronDown"
-        alt="Settings"
+        alt=""
         class="w-2.25 md:w-3 transition-transform duration-200"
         :class="isUnitsDropdownOpen ? 'rotate-180' : 'rotate-0'"
       />
