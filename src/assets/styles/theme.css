@@ -1,6 +1,7 @@
-@import "tailwindcss";
-
 @theme {
+  --font-dm-sans: "DM Sans", sans-serif;
+  --font-bricolage: "Bricolage Grotesque", sans-serif;
+
   --color-neutral-0: #ffffff;
   --color-neutral-200: #d4d3d9;
   --color-neutral-300: #acacb7;
@@ -13,8 +14,4 @@
 
   --color-blue-500: #4658d9;
   --color-blue-700: #2b1b9c;
-}
-
-body {
-  min-height: 100vh;
 }

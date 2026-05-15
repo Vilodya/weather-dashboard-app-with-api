@@ -1,0 +1,13 @@
+@layer base {
+  body {
+    min-height: 100vh;
+    font-family: var(--font-dm-sans);
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+}

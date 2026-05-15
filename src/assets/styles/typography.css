@@ -1,0 +1,50 @@
+@utility text-preset-1 {
+  font-family: var(--font-dm-sans);
+  font-size: 96px;
+  line-height: 100%;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: -2px;
+}
+
+@utility text-preset-2 {
+  font-family: var(--font-bricolage);
+  font-size: 52px;
+  line-height: 120%;
+  font-weight: 700;
+}
+
+@utility text-preset-3 {
+  font-family: var(--font-dm-sans);
+  font-size: 32px;
+  line-height: 100%;
+  font-weight: 300;
+}
+
+@utility text-preset-4 {
+  font-family: var(--font-dm-sans);
+  font-size: 28px;
+  line-height: 120%;
+  font-weight: 700;
+}
+
+@utility text-preset-6 {
+  font-family: var(--font-dm-sans);
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 500;
+}
+
+@utility text-preset-7 {
+  font-family: var(--font-dm-sans);
+  font-size: 16px;
+  line-height: 120%;
+  font-weight: 500;
+}
+
+@utility text-preset-8 {
+  font-family: var(--font-dm-sans);
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 500;
+}
