@@ -1,8 +1,8 @@
 <script setup>
-import Search from "@/components/Search.vue";
-import HourlyForecast from "@/components/HourlyForecast.vue";
-import DailyForecast from "@/components/DailyForecast.vue";
-import CurrentWeatherOverview from "@/components/CurrentWeatherOverview.vue";
+import Search from "@/components/search/Search.vue";
+import HourlyForecast from "@/components/weather/HourlyForecast.vue";
+import DailyForecast from "@/components/weather/DailyForecast.vue";
+import CurrentWeatherOverview from "@/components/weather/CurrentWeatherOverview.vue";
 </script>
 
 <template>

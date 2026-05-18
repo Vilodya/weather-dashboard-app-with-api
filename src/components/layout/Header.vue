@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import IconSettings from "@/assets/icons/icon-settings.svg";
 import IconChevronDown from "@/assets/icons/icon-chevron-down.svg";
-import UnitsDropdown from "@/components/UnitsDropdown.vue";
+import UnitsDropdown from "@/components/weather/UnitsDropdown.vue";
 
 const isUnitsDropdownOpen = ref(false);
 

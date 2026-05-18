@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from "vue";
 import IconChevronDown from "@/assets/icons/icon-chevron-down.svg";
-import DaysDropdown from "@/components/DaysDropdown.vue";
+import DaysDropdown from "@/components/weather/DaysDropdown.vue";
 
 const isDaysDropdownOpen = ref(false);
 const selectedDay = ref("-");

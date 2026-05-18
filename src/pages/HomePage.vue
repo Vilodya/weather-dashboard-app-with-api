@@ -1,6 +1,6 @@
 <script setup>
-import Header from "@/components/Header.vue";
-import WeatherDashboard from "@/components/WeatherDashboard.vue";
+import Header from "@/components/layout/Header.vue";
+import WeatherDashboard from "@/components/layout/WeatherDashboard.vue";
 </script>
 
 <template>
